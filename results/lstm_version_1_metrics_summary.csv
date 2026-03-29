@@ -1,0 +1,2 @@
+model_type,input_size,hidden_size,num_layers,total_parameters,train_samples,test_samples,train_mae,train_r2,train_rmse,test_mae,test_r2,test_rmse,best_test_loss,epochs_trained
+LSTM_Original_Features,15,64,2,56129,1625,665,0.029573240491794304,0.9153180542854877,0.04076930152181933,0.18306171196747384,-2.137670903017268,0.22422734202002736,2.5615413188934326,90
